@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>mono-stack-analyse</title>
+    <link href="/2022/12/04/mono-stack-analyse/"/>
+    <url>/2022/12/04/mono-stack-analyse/</url>
+    
+    <content type="html"><![CDATA[<h1 id="单调栈-Mono-stack"><a href="#单调栈-Mono-stack" class="headerlink" title="单调栈 Mono-stack"></a>单调栈 Mono-stack</h1><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>你是否觉着 Heap 比较虽然有大小, 但是没有了 序 order 很麻烦?<br>你是否觉着 有序序列 Ordered sequence 不能比较, 苦想白给?<br>单调栈, 它lei了.</p><h2 id="性质"><a href="#性质" class="headerlink" title="性质"></a>性质</h2><p>来看下单调栈这个东西, 一种不怎么常见的数据结构. </p><p>首先来看下 stack 这个寄出到不能再基础的数据结构, FILO的属性决定了它具有前缀稳定 + 后缀操作 的特性.</p><p>啥是前缀稳定呢? 就是首先进入stack的数据, 不会与后续的数据 “见面”. 见不着面, 就没得比较, 没得操作, 所以稳定.</p><p>啥是后缀操作呢? 和上面那个反过来, 最新的数据 和 次新的数据 是在一直见面的, 他们之间就能比较, 能操作. </p><p>好了, 这是stack的属性. 跟您单调栈有嘛关系? 关系就是, 我还是个stack, 里面的东西有了 单增 或者 单减 的属性啦!</p><h2 id="例题"><a href="#例题" class="headerlink" title="例题"></a>例题</h2><h2 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test_article</title>
     <link href="/2022/12/03/test-article/"/>
     <url>/2022/12/03/test-article/</url>
