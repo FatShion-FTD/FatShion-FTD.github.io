@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/12/04/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-DP-%E4%B9%8B-1/</loc>
+    <loc>https://fatshion-ftd.github.io/2022/12/04/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-DP-%E4%B9%8B-1/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/12/04/mono-stack-analyse/</loc>
+    <loc>https://fatshion-ftd.github.io/2022/12/04/mono-stack-analyse/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/12/03/test-article/</loc>
+    <loc>https://fatshion-ftd.github.io/2022/12/03/test-article/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://fatshion-ftd.github.io/about/index.html</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/12/03/hello-world/</loc>
+    <loc>https://fatshion-ftd.github.io/2022/12/03/hello-world/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://fatshion-ftd.github.io/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,21 +56,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://fatshion-ftd.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%88%B7%E9%A2%98/</loc>
+    <loc>https://fatshion-ftd.github.io/tags/%E5%88%B7%E9%A2%98/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%89%BE%E5%B7%A5/</loc>
+    <loc>https://fatshion-ftd.github.io/tags/%E6%89%BE%E5%B7%A5/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -79,7 +79,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://fatshion-ftd.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
