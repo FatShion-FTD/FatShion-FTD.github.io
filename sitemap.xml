@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fatshion-ftd.github.io/2022/12/03/hello-world/</loc>
+    
+    <lastmod>2023-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatshion-ftd.github.io/2023/04/01/Prompt-Eng/</loc>
+    
+    <lastmod>2023-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatshion-ftd.github.io/2023/03/16/Spark-Intereview/</loc>
+    
+    <lastmod>2023-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatshion-ftd.github.io/2022/12/17/spring-1/</loc>
+    
+    <lastmod>2022-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatshion-ftd.github.io/2022/12/07/dp2/</loc>
+    
+    <lastmod>2022-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatshion-ftd.github.io/2022/12/06/dijkstra-analysis/</loc>
+    
+    <lastmod>2022-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fatshion-ftd.github.io/2022/12/04/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-DP-%E4%B9%8B-1/</loc>
     
     <lastmod>2022-12-04</lastmod>
@@ -37,19 +91,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://fatshion-ftd.github.io/2022/12/03/hello-world/</loc>
-    
-    <lastmod>2022-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://fatshion-ftd.github.io/</loc>
-    <lastmod>2022-12-06</lastmod>
+    <lastmod>2023-04-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,21 +102,28 @@
   
   <url>
     <loc>https://fatshion-ftd.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2022-12-06</lastmod>
+    <lastmod>2023-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fatshion-ftd.github.io/tags/%E5%88%B7%E9%A2%98/</loc>
-    <lastmod>2022-12-06</lastmod>
+    <lastmod>2023-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fatshion-ftd.github.io/tags/%E6%89%BE%E5%B7%A5/</loc>
-    <lastmod>2022-12-06</lastmod>
+    <lastmod>2023-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatshion-ftd.github.io/tags/%E5%9B%BE%E8%AE%BA/</loc>
+    <lastmod>2023-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -80,7 +132,7 @@
   
   <url>
     <loc>https://fatshion-ftd.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-12-06</lastmod>
+    <lastmod>2023-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
